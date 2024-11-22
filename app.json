@@ -1,16 +1,16 @@
 {
-  "name": "Classic-v3-BUG",
+  "name": "★彡 ⓅⒾⓇⒶⓉⒺ ⒹⒿ 彡★",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Samue-l1/Classic-V4",
   "logo": "https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
   "env": {
       "autoviewstatus": {
-        "description": "Put TRUE,if you want the bot to view status ",
+        "description": "TRUE",
         "required": false
       },
       "HEROKU_API_KEY": {
-        "description": "Heroku account api key, https://dashboard.heroku.com/account",
+        "description": "HRKU-64b37e3a-623b-403a-8aed-45e085fac3ec",
         "required": false
       }
     },
